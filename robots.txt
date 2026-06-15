@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ancasterheatingcooling.ca/sitemap.xml

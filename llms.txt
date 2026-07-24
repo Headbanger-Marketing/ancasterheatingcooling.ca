@@ -1,0 +1,26 @@
+# Ancaster Heating & Cooling
+
+> Ancaster Heating & Cooling is a local HVAC company serving Ancaster, Hamilton-Wentworth, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 304-7182  |  Email: contact@ancasterheatingcooling.ca  |  Website: https://ancasterheatingcooling.ca
+
+Service areas: Ancaster, Hamilton, Stoney Creek, Dundas, Waterdown, Binbrook, Mount Hope
+
+## Key pages
+
+- [Home](https://ancasterheatingcooling.ca/): Ancaster Heating & Cooling homepage with service overview and FAQ
+- [About](https://ancasterheatingcooling.ca/about/): About the company and service area
+- [Contact](https://ancasterheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://ancasterheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Ancaster, Ontario
+- [AC Installation & Repair](https://ancasterheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Ancaster, Ontario
+- [Heat Pumps](https://ancasterheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Ancaster, Ontario
+- [Duct Cleaning](https://ancasterheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Ancaster, Ontario
+- [Thermostats](https://ancasterheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Ancaster, Ontario
+- [Ductless AC Installation](https://ancasterheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Ancaster, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Ancaster are answered on the homepage.
